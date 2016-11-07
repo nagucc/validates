@@ -1,12 +1,14 @@
 # [nagu-validates](https://github.com//nagu-validates)
 
+一些常用错误代码，以及常用检查函数
+
 [![NPM version](http://img.shields.io/npm/v/nagu-validates.svg?style=flat-square)](https://www.npmjs.com/package/nagu-validates)
 [![NPM downloads](http://img.shields.io/npm/dm/nagu-validates.svg?style=flat-square)](https://www.npmjs.com/package/nagu-validates)
 [![Build Status](http://img.shields.io/travis//nagu-validates/master.svg?style=flat-square)](https://travis-ci.org//nagu-validates)
 [![Coverage Status](https://img.shields.io/coveralls//nagu-validates.svg?style=flat-square)](https://coveralls.io//nagu-validates)
 [![Dependency Status](http://img.shields.io/david//nagu-validates.svg?style=flat-square)](https://david-dm.org//nagu-validates)
 
-> 
+>
 
 ### How to Install
 
@@ -16,7 +18,7 @@ $ npm install nagu-validates
 
 ### Getting Started
 
-...
+
 
 ### How to Test
 
